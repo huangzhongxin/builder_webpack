@@ -1,12 +1,11 @@
 {
-  "name": "webpack-learn-of-builder",
+  "name": "builder-webpack",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/_mocha",
     "coverage": "./node_modules/.bin/nyc npm test",
-    "commitmsg": "validate-commit-msg",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0"
   },
   "keywords": [],
